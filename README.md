@@ -1,4 +1,4 @@
-# TheExpanseTelltaleEpicSteamDeckFix
+# The Expanse: A Telltale Series Epic Store Fix for Steam Deck (VC missing)
 This is a simple explanation how to run The Expanse : Telltale Series from Epic Games on Steam Deck.
 
 If you install game from Epic Store (not through Heroic, but with legacy installer) Running game will pop up that there is no VC++ library installed.
